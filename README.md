@@ -16,3 +16,11 @@ https://xmr.nanopool.org/
 ```
 https://miningpoolstats.stream/monero
 ```
+
+### Set CPU Limits in Linux Host
+```
+apt update
+```
+```
+apt install cpulimit
+```
