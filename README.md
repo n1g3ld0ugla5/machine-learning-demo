@@ -2,7 +2,13 @@
 
 We have a working script right now
 
-``` wget https://raw.githubusercontent.com/sysdig/sysdig-threat-generator/main/kubernetes/Sysdig-Threat-Generator.yaml?token=GHSAT0AAAAAABZBORDHQYF4H46WFVXVZKJIYZ2XMQA ```
+```
+wget https://raw.githubusercontent.com/sysdig/sysdig-threat-generator/main/kubernetes/Sysdig-Threat-Generator.yaml?token=GHSAT0AAAAAABZBORDHQYF4H46WFVXVZKJIYZ2XMQA
+```
+
+```
+kubectl apply -f Sysdig-Threat-Generator.yaml?token=GHSAT0AAAAAABZBORDHQYF4H46WFVXVZKJIYZ2XMQA
+```
 
 ### Run the crypto-miner
 ```
